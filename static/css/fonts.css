@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Albert Sans';
+  src: url('/fonts/AlbertSans.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Albert Sans Italic';
+  src: url('/fonts/AlbertSansItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
